@@ -18,10 +18,10 @@ A plugin that will show your server rules in UI form. To open KygekRulesUI, simp
 # How to Install
 
 1. Download the latest version (It is recommended to always download the latest version for the best experience, except you're having compatibility issues).
-2. Put the `KygekRulesUI.jar` file to the `plugins` folder.
+2. Put the `KygekRulesUI.jar` file into the `plugins` folder.
 3. Restart or start the server.
-4. Open the `config.yml` file in the `plugin/KygekRulesUI` folder to edit the `title`, `content` and `button` (NEVER TOUCH THE `config-version`!).
-5. Join the server and type `/rules` in the player chat.
+4. Open the `config.yml` file in the `plugins/KygekRulesUI` folder and edit the `title`, `content` and `button` (NEVER TOUCH THE `config-version`!).
+5. Join the server and execute `/rules` command.
 6. Done!
 
 # Commands & Permissions
