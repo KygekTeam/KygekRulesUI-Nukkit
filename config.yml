@@ -1,0 +1,31 @@
+---
+# KygekRulesUI plugin config
+# Created by KygekDev
+
+# Use "{player}" to display player name
+# Use "§" as formatting codes
+# Use "\n" to break into a new line
+
+##### DANGER ZONE #####
+# Do not change this (Only for internal use)!
+config-version: 1.2
+#######################
+
+##### COMMAND SETTINGS #####
+# Change the command description that will be shown in help pages and command suggestions
+# Leave empty to use the default command description
+command-desc: ""
+# Add command aliases for /rules command (Leave empty if you don't want to add command aliases)
+# Do not use "/" in front of the commands!
+command-aliases: []
+#############################
+
+# Set the KygekRulesUI title here:
+title: "KygekRulesUI"
+
+# Set the KygekRulesUI content here:
+content: "Change in config.yml!"
+
+# Set the KygekRulesUI button here:
+button: "Ok"
+...

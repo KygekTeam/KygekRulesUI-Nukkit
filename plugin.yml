@@ -1,0 +1,12 @@
+---
+name: KygekRulesUI
+main: org.kygekteam.kygekrulesui.Main
+api: "1.0.0"
+version: "1.2.0"
+author: KygekTeam
+
+permissions:
+  kygekrulesui.rules:
+    description: Permission to use KygekRulesUI
+    default: true
+...
