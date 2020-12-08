@@ -41,5 +41,5 @@ Command description can be changed in `config.yml`. You can also add command ali
 KygekRulesUI plugin is made by KygekTeam and licensed under GPL-3.0.
 
 - Join our Discord server <a href="https://discord.gg/CXtqUZv">here</a> for latest updates from KygekTeam.
-- If you found bugs or want to give suggestions, please visit <a href="https://github.com/KygekTeam/KygekRulesUI-Nukkit/issues">here</a> our join our Discord server.
+- If you found bugs or want to give suggestions, please visit <a href="https://github.com/KygekTeam/KygekRulesUI-Nukkit/issues">here</a> or join our Discord server.
 - We accept all contributions! If you want to contribute please make a pull request in <a href="https://github.com/KygekTeam/KygekRulesUI-Nukkit/pulls">here</a>.

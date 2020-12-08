@@ -12,6 +12,7 @@ main: org.kygekteam.kygekrulesui.Main
 api: "1.0.0"
 version: "1.2.0"
 author: KygekTeam
+website: "https://github.com/KygekTeam/KygekRulesUI-Nukkit"
 
 permissions:
   kygekrulesui.rules:
