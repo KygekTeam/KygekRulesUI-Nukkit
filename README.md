@@ -2,6 +2,8 @@
 
 # KygekRulesUI
 
+[![Discord](https://img.shields.io/discord/735439472992321587.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/CXtqUZv)
+
 A plugin that will show your server rules in UI form. To open KygekRulesUI, simply type `/rules` in the chat.
 
 # Features
@@ -43,3 +45,7 @@ KygekRulesUI plugin is made by KygekTeam and licensed under GPL-3.0.
 - Join our Discord server <a href="https://discord.gg/CXtqUZv">here</a> for latest updates from KygekTeam.
 - If you found bugs or want to give suggestions, please visit <a href="https://github.com/KygekTeam/KygekRulesUI-Nukkit/issues">here</a> or join our Discord server.
 - We accept all contributions! If you want to contribute please make a pull request in <a href="https://github.com/KygekTeam/KygekRulesUI-Nukkit/pulls">here</a>.
+
+# Other Versions
+
+- [PocketMine-MP](https://github.com/KygekTeam/KygekRulesUI)
